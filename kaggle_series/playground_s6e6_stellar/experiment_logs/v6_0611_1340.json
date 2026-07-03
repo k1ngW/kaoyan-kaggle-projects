@@ -1,0 +1,8 @@
+{
+  "version": "v6",
+  "timestamp": "2026-06-11 13:40:47",
+  "oof_scores": "TabPFN-3 + XGB+LGB ensemble",
+  "lb_score": null,
+  "params": {},
+  "notes": "TabPFN尝试, OOF 0.96+, 未提交"
+}

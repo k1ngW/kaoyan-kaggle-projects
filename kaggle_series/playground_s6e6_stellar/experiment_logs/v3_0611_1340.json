@@ -1,0 +1,8 @@
+{
+  "version": "v3",
+  "timestamp": "2026-06-11 13:40:47",
+  "oof_scores": "Voting: XGB+LGB+Cat+RF",
+  "lb_score": 0.95423,
+  "params": {},
+  "notes": "四模型投票"
+}

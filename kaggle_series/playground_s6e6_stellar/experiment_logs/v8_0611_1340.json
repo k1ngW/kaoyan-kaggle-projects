@@ -1,0 +1,8 @@
+{
+  "version": "v8",
+  "timestamp": "2026-06-11 13:40:47",
+  "oof_scores": "XGB OOF 0.9666",
+  "lb_score": 0.96757,
+  "params": {},
+  "notes": "BEST: Chris Deotte完整CPU移植. QB(16/64/256) + Fold-Safe TE + Original Prior + 171 TOP_FEATURES + XGB(max_leaves=72, lossguide, 7000 trees, class_weights)"
+}

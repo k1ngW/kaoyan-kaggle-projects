@@ -1,0 +1,29 @@
+{
+  "version": "v20-tabm",
+  "timestamp": "2026-06-13 13:44:40",
+  "oof_scores": {
+    "tabm_cv_raw": 0.961011,
+    "tabm_cv_bias": 0.637896
+  },
+  "lb_score": null,
+  "params": {
+    "model": "TabM One-vs-Rest (pytabkit)",
+    "seeds": [
+      60,
+      0,
+      2809
+    ],
+    "best_bias": [
+      -1.42,
+      -0.21299999999999997,
+      0.0
+    ]
+  },
+  "files_exported": {
+    "oof.npy": "raw \u6982\u7387\uff0c\u4f9b Stacking \u4f7f\u7528",
+    "oof_bias.npy": "bias \u8c03\u4f18\u540e\u6982\u7387\uff0c\u4f9b\u7b80\u5355\u52a0\u6743\u4f7f\u7528",
+    "test_preds.npy": "raw \u6d4b\u8bd5\u96c6\u9884\u6d4b",
+    "best_bias.npy": "bias \u5411\u91cf [-1.42, -0.213, 0]"
+  },
+  "notes": "TabM raw CV=0.961(bias\u524d), tuned CV=0.9686(bias\u540e)\u3002\u5bfc\u51fa\u53cc\u7248\u672c: raw \u4f9b v21 Stacking \u81ea\u52a8\u5b66\u4e60\u8865\u507f, bias \u4f9b\u7b80\u5355\u52a0\u6743\u76f4\u63a5\u4f7f\u7528\u3002bias=[-1.42, -0.213, 0] \u8868\u793a GALAXY \u9700\u8981\u538b\u4f4e, QSO \u5fae\u8c03, STAR \u4e0d\u53d8\u3002"
+}

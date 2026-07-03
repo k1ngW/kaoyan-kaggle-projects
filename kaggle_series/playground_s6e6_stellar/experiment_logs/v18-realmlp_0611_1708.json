@@ -1,0 +1,10 @@
+{
+  "version": "v18-realmlp",
+  "timestamp": "2026-06-11 17:08:52",
+  "oof_scores": {
+    "cv": 0.96904
+  },
+  "lb_score": 0.96979,
+  "params": {},
+  "notes": "RealMLP-5 single model: PyTorch NN n_ens=8, color diffs+redshift ratios+fold-safe TE. OOF 0.96904→LB 0.96979"
+}

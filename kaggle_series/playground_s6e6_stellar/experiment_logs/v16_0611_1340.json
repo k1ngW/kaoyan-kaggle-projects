@@ -1,0 +1,8 @@
+{
+  "version": "v16",
+  "timestamp": "2026-06-11 13:40:47",
+  "oof_scores": "ALL特征(482f) + 40新天文学特征 + USE_ORIGINAL_ROWS=True",
+  "lb_score": null,
+  "params": {},
+  "notes": "RUNNING: 用全部特征替代171 TOP_FEATURES, 新增颜色比率/浓度指数/非线性变换. Fold1 0.9658, 原始数据混入拉低分数, 已改为False重跑"
+}

@@ -1,0 +1,8 @@
+{
+  "version": "v13",
+  "timestamp": "2026-06-11 13:40:47",
+  "oof_scores": "XGB(171f) + Cat(497f) no class_weights",
+  "lb_score": null,
+  "params": {},
+  "notes": "FAILED: 去掉class_weights导致Fold1从0.965跌到0.959. 此数据集必须保留class_weights"
+}

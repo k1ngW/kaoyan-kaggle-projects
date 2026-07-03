@@ -1,0 +1,8 @@
+{
+  "version": "v4",
+  "timestamp": "2026-06-11 13:40:47",
+  "oof_scores": "XGB+LGB+RF 500 estimators",
+  "lb_score": 0.95497,
+  "params": {},
+  "notes": "增加树数量"
+}

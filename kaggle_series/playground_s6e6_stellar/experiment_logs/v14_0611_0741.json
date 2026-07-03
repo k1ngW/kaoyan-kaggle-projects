@@ -1,0 +1,11 @@
+{
+  "version": "v14",
+  "timestamp": "2026-06-11 07:41:42",
+  "oof_scores": {
+    "rmlp": 0.9575091687024582,
+    "vote": 0.9647730098684368
+  },
+  "lb_score": null,
+  "params": {},
+  "notes": "RealMLP 256ep + v8 XGB vote"
+}

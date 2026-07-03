@@ -1,0 +1,8 @@
+{
+  "version": "v12",
+  "timestamp": "2026-06-11 13:40:47",
+  "oof_scores": "XGB OOF 0.9666 + Cat OOF 0.9663 → vote 0.9668",
+  "lb_score": 0.96723,
+  "params": {},
+  "notes": "XGB+Cat软投票, 同特征(171), OOF有提升但LB略退"
+}

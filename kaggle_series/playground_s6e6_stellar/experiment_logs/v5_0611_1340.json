@@ -1,0 +1,8 @@
+{
+  "version": "v5",
+  "timestamp": "2026-06-11 13:40:47",
+  "oof_scores": "LGB-GPU + XGB-hist 1000 trees",
+  "lb_score": 0.95548,
+  "params": {},
+  "notes": "GPU加速 + 更多树"
+}

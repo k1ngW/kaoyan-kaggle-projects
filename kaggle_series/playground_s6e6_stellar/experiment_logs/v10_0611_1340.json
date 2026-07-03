@@ -1,0 +1,8 @@
+{
+  "version": "v10",
+  "timestamp": "2026-06-11 13:40:47",
+  "oof_scores": "XGB+Cat soft vote OOF 0.9664",
+  "lb_score": 0.96705,
+  "params": {},
+  "notes": "XGB+Cat软投票, anaconda env, 略低于v8单模型"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cdeotte/xgb-v1-for-s6e6",
+  "id_no": 121442338,
+  "title": "XGB v1 for S6E6",
+  "code_file": "gpu-logistic-regression-stacker.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "fedesoriano/stellar-classification-dataset-sdss17"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s6e6"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-private-byod/python@sha256:57e612b484cf3df5026ee4dcc3cb176974b22b2bc0937fb1e16132a8be4cb13c",
+  "machine_shape": "NvidiaTeslaT4"
+}

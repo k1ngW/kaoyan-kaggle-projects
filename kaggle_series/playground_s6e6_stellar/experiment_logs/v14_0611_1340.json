@@ -1,0 +1,8 @@
+{
+  "version": "v14",
+  "timestamp": "2026-06-11 13:40:47",
+  "oof_scores": "RealMLP 256epoch 171特征 + v8 XGB vote",
+  "lb_score": null,
+  "params": {},
+  "notes": "FAILED: RealMLP 256epoch OOF 0.9575, soft vote 0.9648 → 退化. pytabkit RealMLP_TD不等于Chris的Kaggle RealMLP v1"
+}

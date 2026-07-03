@@ -1,0 +1,8 @@
+{
+  "version": "v10",
+  "timestamp": "2026-06-11 01:31:09",
+  "oof_scores": "XGB 0.9651 Cat 0.9663 vote 0.9664",
+  "lb_score": 0.96705,
+  "params": {},
+  "notes": "XGB+Cat soft vote"
+}

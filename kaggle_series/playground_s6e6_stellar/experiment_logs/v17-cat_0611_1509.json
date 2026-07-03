@@ -1,0 +1,16 @@
+{
+  "version": "v17-cat",
+  "timestamp": "2026-06-11 15:09:24",
+  "oof_scores": {
+    "cv": 0.96887,
+    "fold_mean": 0.96887,
+    "fold1": 0.969702,
+    "fold2": 0.969119,
+    "fold3": 0.968597,
+    "fold4": 0.968226,
+    "fold5": 0.968728
+  },
+  "lb_score": null,
+  "params": {},
+  "notes": "CatBoost GPU cat-3: 241feat(153cat+88num), native CTR3, hash交互, SDSS wt=0.06, Kaggle T4x2"
+}

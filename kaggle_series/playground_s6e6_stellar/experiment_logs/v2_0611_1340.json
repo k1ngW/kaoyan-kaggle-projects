@@ -1,0 +1,8 @@
+{
+  "version": "v2",
+  "timestamp": "2026-06-11 13:40:47",
+  "oof_scores": "LGB+XGB+RF ensemble",
+  "lb_score": 0.9546,
+  "params": {},
+  "notes": "简单三模型集成"
+}

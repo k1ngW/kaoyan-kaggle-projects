@@ -1,0 +1,8 @@
+{
+  "version": "v11",
+  "timestamp": "2026-06-11 13:40:47",
+  "oof_scores": "RealMLP 64epoch + v8 XGB vote",
+  "lb_score": null,
+  "params": {},
+  "notes": "FAILED: RealMLP_TD 64epoch OOF 0.943-0.949, 24特征太少, 训练不足"
+}

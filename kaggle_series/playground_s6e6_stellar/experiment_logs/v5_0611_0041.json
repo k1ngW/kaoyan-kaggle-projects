@@ -1,0 +1,8 @@
+{
+  "version": "v5",
+  "timestamp": "2026-06-11 00:41:18",
+  "oof_scores": "LGB+XGB ensemble",
+  "lb_score": 0.95548,
+  "params": {},
+  "notes": "GPU 1000t"
+}

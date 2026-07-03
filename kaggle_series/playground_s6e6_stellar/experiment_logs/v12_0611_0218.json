@@ -1,0 +1,12 @@
+{
+  "version": "v12",
+  "timestamp": "2026-06-11 02:18:31",
+  "oof_scores": {
+    "xgb": 0.9666477660874838,
+    "cat": 0.9663117524820185,
+    "vote": 0.9668160122130631
+  },
+  "lb_score": null,
+  "params": {},
+  "notes": "v8 XGB+Cat soft vote"
+}

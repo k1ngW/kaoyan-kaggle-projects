@@ -1,0 +1,8 @@
+{
+  "version": "v1",
+  "timestamp": "2026-06-11 13:40:47",
+  "oof_scores": "XGB baseline CV 0.9531",
+  "lb_score": 0.95439,
+  "params": {},
+  "notes": "初始XGBoost + 基础特征 + Stratified CV"
+}

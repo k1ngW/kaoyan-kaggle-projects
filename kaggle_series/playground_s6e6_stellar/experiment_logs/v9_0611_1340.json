@@ -1,0 +1,8 @@
+{
+  "version": "v9",
+  "timestamp": "2026-06-11 13:40:47",
+  "oof_scores": "XGB 0.9651 + LGB 0.9649 + Cat 0.9663 + MLP 0.9567 → stacking 0.9615",
+  "lb_score": 0.96239,
+  "params": {},
+  "notes": "FAILED: 4模型LogisticRegression stacking. conda env sklearn版本差异导致TE质量下降, MLP太弱拉低整体"
+}

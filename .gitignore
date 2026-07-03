@@ -5,13 +5,38 @@ kaggle.json
 # 原始数据目录 — 让使用者自己从Kaggle下载
 data/
 
-# 提交文件 — 每次运行会重新生成
+# 提交文件 + 运行产物
 *.csv
+*.npy
+submission*.csv
+oof/
+train_oof/
+test_preds/
+subs/
 
 # Python
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# 模型训练信息
+catboost_info/
+
+# IDE
+.vscode/
+.virtual_documents/
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.rsconnect/
+
+# 个人文档 — 不上传
+工作日志.md
+GitHub上传标准.md
 
 # 系统
 .DS_Store
